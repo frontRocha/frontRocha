@@ -1,14 +1,14 @@
 <div>
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="[linkedin.com/in/frontrocha](https://www.linkedin.com/in/frontrocha/)">Mauricio Pedro</a>
+    <a href="https://www.linkedin.com/in/frontrocha/">Mauricio Pedro</a>
   </h1>
   
   <p align="center">
     Sou Desenvolvedor Front End Jr.
   </p>
     <p align="center">
-    Acompanhe-me no meu <a href="[www.linkedin.com](https://www.linkedin.com/in/frontrocha/)">LinkedIn</a>
+    Acompanhe-me no meu <a href="https://www.linkedin.com/in/frontrocha/">LinkedIn</a>
   </p>
   
 </div>

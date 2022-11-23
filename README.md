@@ -1,5 +1,4 @@
 <div>
-  
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
     <a href="linkedin.com/in/frontrocha">Mauricio Pedro</a>
@@ -22,9 +21,9 @@
 </div>
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Vite" height="30" width="40" src="https://github.dev/frontRocha/frontRocha/blob/master/assets/vite.png">
+  <img align="center" alt="React" height="30" width="40" src="https://github.dev/frontRocha/frontRocha/blob/master/assets/sass.png">
+  <img align="center" alt="Tailwindcss" height="30" width="40" src="https://github.dev/frontRocha/frontRocha/blob/master/assets/tailwind.png">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

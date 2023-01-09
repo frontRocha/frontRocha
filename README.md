@@ -38,11 +38,3 @@
   <img align="center" alt="Typescript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Node Js" height="30" width="30" src="https://camo.githubusercontent.com/29e705dcac8d111d67e72cab2037b3d7a5a8dc63ca9291a7a3f226baccb07f28/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6f64656a732d69636f6e2e737667">
 </div><br>
-
-
-
-<div align="center">
-
-  ![Snake animation](https://github.com/frontRocha/frontRocha/blob/output/github-contribution-grid-snake.svg)
-
-</div>
